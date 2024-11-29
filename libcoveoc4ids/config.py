@@ -3,11 +3,11 @@ import copy
 LIB_COVE_OC4IDS_CONFIG_DEFAULT = {
     "schema_name": "project-package-schema.json",
     "schema_item_name": "project-schema.json",
-    "schema_version": "0.9.4",
+    "schema_version": "0.9.5",
     "schema_version_choices": {
-        "0.9.4": ("0.9.4", "http://standard.open-contracting.org/infrastructure/schema/0__9__4/"),
+        "0.9.5": ("0.9.5", "http://standard.open-contracting.org/infrastructure/schema/0__9__5/"),
     },
-    "schema_host": "http://standard.open-contracting.org/infrastructure/schema/0__9__4/",
+    "schema_host": "http://standard.open-contracting.org/infrastructure/schema/0__9__5/",
     "schema_codelists": {
         # version: codelist_dir,
         "0.9": "https://raw.githubusercontent.com/open-contracting/infrastructure/0.9/schema/project-level/codelists/",
